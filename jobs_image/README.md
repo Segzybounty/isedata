@@ -151,3 +151,5 @@ Dominance of full-time employment and LinkedIn as a recruitment platform
 Limited remote-work availability and moderate benefit coverage
 
 This project demonstrates my ability to use advanced Power BI capabilities—data modeling, DAX, ETL, visualization design, and analytical storytelling—while providing a practical tool for job seekers, recruiters, and analysts to navigate the evolving data‑career ecosystem.
+
+i look forward to collaboration on this project
